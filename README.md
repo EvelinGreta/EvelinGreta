@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is Evelin G. Csabai, and I am a Just IT trained aspiring Software Developer, interested in Web Development, Python, Data Science and Cybercrime!
+
+  - 🔭 I’m currently working on extending my Tealicious website with a MqSQL database, using Flask.
+  - 🌱 I’m learning Java and C#.
+  - 📜 How to reach me: https://www.linkedin.com/in/evelin-gr%C3%A9ta-csabai-324156239/
+  - 🔍 Fun fact: I have a BSc in Criminology and Criminal Justice 🕵️‍♂️
+
 <!--
 **EvelinGreta/EvelinGreta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
